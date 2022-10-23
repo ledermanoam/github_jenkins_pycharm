@@ -4,5 +4,6 @@ print("it's fucking working")
 
 a = 5
 b = 4
-s = a + b
+c = 7
+s = a + b + c
 print(s)
